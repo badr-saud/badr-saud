@@ -7,12 +7,7 @@ Computer & Network Engineering student at Sultan Qaboos University, passionate a
 - **Frontend:** React.js, CSS3, Responsive Design
 - **Backend:** Python
 - **Tools:** Git, GitHub, VS Code
-- **Currently Learning:** Advanced Frontend Development
 
-## 🎯 Current Focus
-- Frontend Development
-- Network Security
-- UI/UX Design
 
 ## 📊 GitHub Stats
 
@@ -27,20 +22,10 @@ Computer & Network Engineering student at Sultan Qaboos University, passionate a
 - Demonstrates DOM manipulation and game logic
 - [View Project](https://github.com/badr-saud/memory-game)
 
-### Frontend Mentor Challenges
-- Responsive web design implementations
-- Focus on HTML5 and CSS3 best practices
-- [Challenge 01](https://github.com/badr-saud/Frontend-Mentor-Challenge-01)
-- [Challenge 02](https://github.com/badr-saud/Frontend-Mentor-Challenge-02)
-
-## 📫 Connect With Me
-- LinkedIn: [Badr Al Rahbi](https://www.linkedin.com/in/badr-al-rahbi)
-- Email: rahbibader@gmail.com
 
 ## 🌱 Looking Forward
 - Contributing to open-source projects
 - Exploring full-stack development
-- Network security implementations
 
 ---
 ⭐️ From [badr-saud](https://github.com/badr-saud)
