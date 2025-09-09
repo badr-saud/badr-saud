@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <img src="https://placehold.co/600x200?text=Your+Banner+Image" alt="Banner Image" />
 </p>
@@ -5,6 +6,7 @@
 <p align="center">
   <img src="https://placehold.co/150?text=Profile+Photo" alt="Badr Al Rahbi" width="150" style="border-radius:50%;" />
 </p>
+-->
 
 # 👋 Hi, I’m Badr Al Rahbi
 
@@ -16,7 +18,7 @@ Computer & Network Engineering student at Sultan Qaboos University, passionate a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-al-rahbi)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badr-saud)  
-[![Email](https://img.shields.io/badge/Email-badr%40example.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badr@example.com)  
+[![Email](https://img.shields.io/badge/Email-badr%40example.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahbibader@gmail.com)  
 
 Feel free to reach out for collaboration, questions, or just to chat about code!
 
