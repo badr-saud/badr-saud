@@ -10,7 +10,7 @@
 
 # 👋 Hi, I’m Badr Al Rahbi
 
-Computer & Network Engineering student at Sultan Qaboos University, passionate about crafting scalable web applications with Python and Django. My favorite project was developing a real-time chat app where I honed REST API design and asynchronous programming.
+Computer Systems and Networks Engineer with a degree from Sultan Qaboos University, passionate about building software.
 
 ---
 
@@ -18,7 +18,7 @@ Computer & Network Engineering student at Sultan Qaboos University, passionate a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-al-rahbi)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badr-saud)  
-[![Email](https://img.shields.io/badge/Email-badr%40example.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahbibader@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-rahbibadr%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahbibader@gmail.com)  
 
 Feel free to reach out for collaboration, questions, or just to chat about code!
 
@@ -32,7 +32,8 @@ Feel free to reach out for collaboration, questions, or just to chat about code!
 **Back-End:**  
 ![Python](https://img.shields.io/badge/Python-%23007ACC?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23007ACC?style=for-the-badge&logo=django&logoColor=white)
 
-**DevOps & Tools:**  
+<!--**DevOps & Tools:**-->  
+**Tools:**  
 ![Git](https://img.shields.io/badge/Git-%23007ACC?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -60,9 +61,9 @@ Feel free to reach out for collaboration, questions, or just to chat about code!
 
 ## 🎓 Currently Learning
 
-- Docker & container orchestration  
-- GraphQL API design  
-- AWS deployment fundamentals  
+- Django REST Framework for building robust APIs  
+- Modern JavaScript frameworks (React) for dynamic front-ends  
+<!-- - Containerization with Docker and basic orchestration concepts -->  
 
 ---
 
