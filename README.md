@@ -18,7 +18,7 @@ Computer Systems and Networks Engineer with a degree from Sultan Qaboos Universi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-al-rahbi)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badr-saud)  
-[![Email](https://img.shields.io/badge/Email-rahbibadr%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahbibader@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-rahbibader%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahbibader@gmail.com)  
 
 Feel free to reach out for collaboration, questions, or just to chat about code!
 
